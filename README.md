@@ -33,8 +33,8 @@ yearly_data
 
 Credentials to connect to the database:
 ```
-(user='user',
+user='user',
 password='password',
 host='localhost',
-database='database')
+database='database'
 ```
