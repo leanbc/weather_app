@@ -15,7 +15,7 @@ A docker container with a Postgres database will be created and the `main.py` sc
 
 The pipeline takes some time to run, since dowloading and inserting the yearly weather data is pretty heavy, but there is logging informing of every step.
 
-Once the whole pipeline runs, you can connect the Database where the tableswith the reasults are ready:
+Once the whole pipeline runs, you can connect the Database where the tables with the results are ready:
 
 Schema: `tr`
 
