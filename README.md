@@ -8,7 +8,7 @@
 
 ## How to run it?
 
-- Git clone the repo.
+- Git clone this repo.
 - cd to the root directory and run : `make run_pipeline`
 
 A docker container with a Postgres database will be created and the `main.py` script will run automatically.
